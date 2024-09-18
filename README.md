@@ -10,4 +10,26 @@ We use 22 3D objects with diverse geometries, textures, and material complexitie
 ## Dataset
 The dataset include NeRF samples, source 3D objects, multiview images for NeRF generation, PVSs, MOS, is made publicly available at the following location: https://github.com/LittlericeChloe/Explicit-NeRF-QA.
 
+The dataset includes: 
+
+(1) "Multiview images & Camera files" folder: 
+
+It contains multiview images along with corresponding '.json' camera parameter files for 22 3D models which consist of three parts: training (train) , testing(test) and validation(val) set. The training set act as input for training NeRF models, testing set is used to calculate objective metrics, and validation set is used to render videos for subjective experiments.
+
+(2) "NeRFs" folder:
+
+It contains all the 440 NeRF model files used in our project. Specifically, we use 22 synthetic 3D scenes and 4 explicit NeRF models each with 5 quality levels corresponding to different compression levels, resulting in a total of 440 NeRF model files.
+
+(3) "Videos" folder:
+
+It contains all the 440 videos used in the subjective experiment. 
+
+(4) "MOS.xlxs":
+
+420 MOS scores obtained form subjective experiment are listed. (another 20 samples are used in training sessions in subjective experiment)
+
+(5) "Datasource.txt": 
+
+Source location of all the 3D models are listed.
+
 
