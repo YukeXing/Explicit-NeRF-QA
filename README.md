@@ -6,6 +6,8 @@ We use 22 3D objects with diverse geometries, textures, and material complexitie
 
 ![image](scenes.png)
 
+<img src=scenes.png width="200">
+
 ## Dataset
 The dataset include NeRF samples, source 3D objects, multiview images for NeRF generation, PVSs, MOS, is made publicly available at the following location: https://github.com/LittlericeChloe/Explicit-NeRF-QA.
 
