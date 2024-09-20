@@ -9,7 +9,7 @@ We use 22 3D objects with diverse geometries, textures, and material complexitie
 
 ## Dataset
 
-The dataset includes: 
+#### The dataset includes: 
 
 * Multiview images & Camera files Dataset: It contains multiview images along with corresponding '.json' camera parameter files which consist of three parts: training (train) , testing(test) and validation(val) set. The training set act as input for training NeRF models, testing set is used to calculate objective metrics, and validation set is used to render videos for subjective experiments.
 
