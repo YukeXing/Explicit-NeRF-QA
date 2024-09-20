@@ -11,7 +11,7 @@ We use 22 3D objects with diverse geometries, textures, and material complexitie
 
 #### The dataset includes: 
 
-* Multiview images & Camera files Dataset: It contains multiview images along with corresponding '.json' camera parameter files which consist of three parts: training (train) , testing(test) and validation(val) set. The training set act as input for training NeRF models, testing set is used to calculate objective metrics, and validation set is used to render videos for subjective experiments.
+* Multiview images & Camera files Dataset: It contains multiview images along with corresponding '.json' camera parameter files which consist of three parts: training (train) , testing (test) and validation (val) set. The training set act as input for training NeRF models, testing set is used to calculate objective metrics, and validation set is used to render videos for subjective experiments.
 
 * All the 440 NeRF model files used in our project. Specifically, we use 22 synthetic 3D scenes and 4 explicit NeRF models each with 5 quality levels corresponding to different compression levels, resulting in a total of 440 NeRF model files.
 
