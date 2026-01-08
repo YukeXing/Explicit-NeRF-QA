@@ -21,7 +21,7 @@ We use 22 3D objects with diverse geometries, textures, and material complexitie
 
 * Source location of all the 3D models.
 
-Huggingface: Chole12/Explicit-NeRF-QA
+Huggingface: 
 https://huggingface.co/datasets/Chole12/Explicit-NeRF-QA
 
 Baidu Cloud Drive: https://pan.baidu.com/s/1WDZ125GWF18-OWx94hJKfg?pwd=fqsc 
